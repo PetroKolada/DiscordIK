@@ -1,2 +1,3 @@
 # DiscordIK
-An a Terminal for Discord Bot
+Терминал для ботов в дискорде
+Что может пойти не так???
